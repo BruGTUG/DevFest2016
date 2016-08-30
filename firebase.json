@@ -3,7 +3,7 @@
     "rules": "database.rules.json"
   },
   "hosting": {
-    "public": "build/bundled",
+    "public": "build/unbundled",
     "cleanUrls": true,
     "rewrites": [
       {
@@ -12,7 +12,6 @@
       }
     ],
     "ignore": [
-      "/test/**",
       "bower.json",
       "database.rules.json",
       "firebase.json",
