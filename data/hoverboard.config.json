@@ -72,7 +72,7 @@
         },
         {
           "text": "df-15",
-          "url": "http://devfest.begdg.org.ua/2015/",
+          "url": "http://www.meetup.com/gdg-brussels/events/225473520/",
           "newTab": true
         }
       ]
@@ -124,7 +124,7 @@
   "hashtag": "devfestbe",
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://picasaweb.google.com/data/feed/api/user/109869587768934442857/albumid/6082236288867370017?alt=json",
+    "albumUrl": "http://www.meetup.com/gdg-brussels/photos/",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [

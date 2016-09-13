@@ -1,0 +1,17 @@
+DevFest Belgium 2016 has been announced! The 5th edition of the biggest conference about Google technologies in Belgium will take on **October 22-23**. We invite all developers, designer, entrepreneurs, techies, newbies and interested people to join us in Brussels.
+
+We have an open call for papers running until September 30. Please submit your sessions!
+<div class="text-center">
+<a href="https://goo.gl/forms/3rj8TUpF8CVtvKks1" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+</a>
+</div>
+
+
+### Why is it cool to be a speaker?
+
+Well, do you know a better way to attend the conference? Here are our top 3 reasons to [submit a proposal](https://goo.gl/forms/3rj8TUpF8CVtvKks1).
+
+1. **It is good for your career.** By being a speaker, you are proving your level of expertise to a potential business partners or employers.
+2. **It is good for the company you’re working for.** Any presentation delivered by an employee adds credibility to a company’s public image.
+3. **Unique networking.** Being a speaker means you’ll have unique chance to network with other speakers - the best experts in the industry.
