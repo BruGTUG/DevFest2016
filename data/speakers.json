@@ -34,5 +34,40 @@
               "link": "http://www.linkedin.com/pub/sascha-wolter/5/a38/493"
           }
       ]
+  },
+  "2": {
+      "id": 2,
+      "featured": true,
+      "name": "Davy Engone",
+      "title": "Partner & Software Engineer",
+      "company": "Hackages",
+      "country": "Brussels, Belgium",
+      "photoUrl": "/images/people/davy_engone.jpg",
+      "shortBio": "Dreamer, Entrepreneur, Foodie, Runner, Basketball. Building @hackages.",
+      "bio": "Dreamer, Entrepreneur, Foodie, Runner, Basketball. Building @hackages.",
+      "tags": [
+          "Angular",
+          "Web"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "github",
+              "name": "Github",
+              "link": "https://github.com/davyengone"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "http://twitter.com/davyengone"
+          },
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "http://www.linkedin.com/in/davyengone"
+          }
+      ]
   }
 }
