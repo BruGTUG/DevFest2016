@@ -79,5 +79,19 @@
         "tags": [
             "Web"
         ]
+    },
+    "203": {
+        "id": 203,
+        "title": "My Minecraft-Smart-Home: Prototyping the Internet of Uncanny Things",
+        "description": "Software solutions and everyday objects are becoming increasingly **smarter**, take over more **responsibility** and know more and more about us and our intentions.\n\nBut what does that mean for developers, and what impact does this have on the user? How do we convey the understanding and competence for this Internet of Things?\n\nSascha Wolter covers typical IoT challenges and inspires with crazy and sometimes creepy examples. He also introduces a prototypic approach for hardware and software ideation based on visual programming languages, games like Minecraft, and the Eclipse IDE. Of course, it is shown that this pragmatic approach is also suitable for professional projects using IoT platforms and smart home solutions such as Eclipse SmartHome, openHAB, or QIVICON.",
+        "image": "/images/sessions/203.JPG",
+        "speakers": [
+          [1]
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "IoT"
+        ]
     }
 }
