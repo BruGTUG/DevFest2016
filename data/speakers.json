@@ -69,5 +69,40 @@
               "link": "http://www.linkedin.com/in/davyengone"
           }
       ]
+  },
+  "3": {
+      "id": 3,
+      "featured": false,
+      "name": "Joris Brauns",
+      "title": "Coach and Consultant",
+      "company": "Team4Talent",
+      "country": "Antwerpen, Belgium",
+      "photoUrl": "/images/people/joris_brauns.jpg",
+      "shortBio": "One-of-a-kind, ambitious and passionate coder always trying to learn and share.",
+      "bio": "Joris Brauns is a Coach and Consultant at Team4Talent. A Microsoft Most Valuable Professional,  Extended Experts Team Member at Microsoft. And a Co-Founder of the Open Windows Insiders Community Belgium.\nOne-of-a-kind, ambitious and passionate coder always trying to learn and share his development skills, challenge he faces head-on! But most of all, wanna have some fun while doing all of this.",
+      "tags": [
+          "Angular",
+          "Web"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://blog.jorisbrauns.be"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/jorisbrauns"
+          },
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/brauns"
+          }
+      ]
   }
 }

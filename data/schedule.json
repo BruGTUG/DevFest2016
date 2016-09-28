@@ -58,6 +58,7 @@
         "startTime": "15:30",
         "endTime": "16:00",
         "sessions": [
+          [134]
         ]
     }, {
         "startTime": "16:00",
@@ -132,7 +133,7 @@
         "startTime": "15:30",
         "endTime": "16:00",
         "sessions": [
-
+          [134]
         ]
     }, {
         "startTime": "16:00",

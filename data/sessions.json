@@ -93,5 +93,18 @@
         "tags": [
             "IoT"
         ]
+    },
+    "204": {
+      "id": 204,
+      "title": "Angular 2 and Mobile",
+      "description": "In this session, Joris will give an introduction how to build and develop mobile apps with Angular2.",
+      "speakers": [
+        [3]
+      ],
+      "language": "English",
+      "complexity": "Beginner",
+      "tags": [
+          "Web"
+      ]
     }
 }
