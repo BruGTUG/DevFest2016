@@ -104,5 +104,30 @@
               "link": "https://www.linkedin.com/in/brauns"
           }
       ]
+  },
+  "4": {
+    "id": 4,
+    "featured": true,
+    "name": "Gill Cleeren",
+    "title": ".NET Architect - Microsoft RD & MVP",
+    "country": "Tienen, Belgium",
+    "photoUrl": "/images/people/gill_cleeren.jpg",
+    "shortBio": "Trainer, Speaker, Developer",
+    "bio": "I’m Microsoft Regional Director, Windows Platform MVP, Pluralsight trainer and Telerik MVP. I live in Tienen, Belgium (not too far from the capital of Europe!). I focus on mobile development for the Windows stack as well as Xamarin. I love giving talks, giving trainings and talking tech. I’m a frequent speaker at many international conferences such as TechDays, TechEd, NDC, VSLive and many more. I’m also the founder of Techorama, the biggest developer conference in Belgium. Oh and I run Visug, the .NET user group.",
+    "tags": [
+      "Xamarin"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://www.snowball.be/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/gillcleeren"
+      }
+    ]
   }
 }

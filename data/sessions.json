@@ -106,5 +106,19 @@
       "tags": [
           "Web"
       ]
+    },
+    "205": {
+      "id": 205,
+      "title": "Xamarin for Android Developers",
+      "description": "Xamarin is a Cross-Platform Framework that allows developers to build mobile applications for iOS, Android and Windows using .NET and C#. From a single language mobile developers can leverage the power of C# and a single codebase to build and maintain their apps for all of the above three platforms. This talk gives an introduction of Xamarin and how Android developers can use it to develop apps not only for Android but easily add other platforms to it.",
+      "speakers": [
+        [4]
+      ],
+      "language": "English",
+      "complexity": "Beginner",
+      "tags": [
+        "Android",
+        "C#"
+      ]
     }
 }
