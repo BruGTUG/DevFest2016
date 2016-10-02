@@ -110,6 +110,7 @@
     "featured": true,
     "name": "Gill Cleeren",
     "title": ".NET Architect - Microsoft RD & MVP",
+    "company": "Snowball",
     "country": "Tienen, Belgium",
     "photoUrl": "/images/people/gill_cleeren.jpg",
     "shortBio": "Trainer, Speaker, Developer",
@@ -127,6 +128,58 @@
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/gillcleeren"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Benjamin Xzan Monjoie",
+    "title": "Android Developer",
+    "company": "Appkers",
+    "country": "Belgium",
+    "photoUrl": "/images/people/benjamin_monjoie.jpg",
+    "shortBio": "Founder & Organizer of the GDG Namur Android",
+    "bio": "Developer since 2004, I have grown fond of Android since I started tinkering with it in 2011. I was previously employed at Emakina as lead Android developer. Since July 2016, I started my carrer as a freelancer. Through my work, I do my best to share my passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. I stay closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://www.xzan.be/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/Xzan"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/benjaminmonjoie"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Yannick Lemin",
+    "title": "Freelancer, Android Architect",
+    "company": "TechYOS",
+    "country": "Belgium",
+    "photoUrl": "/images/people/yannick_lemin.jpg",
+    "shortBio": "Software craftsman playing with Android",
+    "bio": "I am a freelancer in Android development / architecture.\n\nI am very passionate about new technologies. I have grown a very big interest for mobile development, and more particularly native Android, which I have been playing with for over 5 years.\n\nI also keep up with the latest in web development technologies, front and back-end, such as JavaScript frameworks (AngularJS, Dart, ...), industrialization solutions (Grunt, bower, Sass, ...).\n\nI am also very interested in the “Internet of Things” as well as “Quantified Self”.\n\nWith over 13 years of Object Oriented programming experience, I push excellence, code quality and robustness, and professionalism in every project I am involved in.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/TheYann"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://www.yannicklemin.com/"
       }
     ]
   }

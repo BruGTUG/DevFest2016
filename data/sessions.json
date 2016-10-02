@@ -120,5 +120,18 @@
         "Android",
         "C#"
       ]
+    },
+    "206": {
+      "id": 206,
+      "title": "Dependency Injection with Toothpick",
+      "description": "Dependency Injection (DI) is an important tool to create quality code. This is also true in Android. Toothpick is an alternative to Dagger 2. In this session you will learn about this new DI library.",
+      "speakers": [
+        [5]
+      ],
+      "language": "English",
+      "complexity": "Intermediate",
+      "tags": [
+        "Android"
+      ]
     }
 }
