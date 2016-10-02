@@ -170,16 +170,19 @@
     "photoUrl": "/images/people/yannick_lemin.jpg",
     "shortBio": "Software craftsman playing with Android",
     "bio": "I am a freelancer in Android development / architecture.\n\nI am very passionate about new technologies. I have grown a very big interest for mobile development, and more particularly native Android, which I have been playing with for over 5 years.\n\nI also keep up with the latest in web development technologies, front and back-end, such as JavaScript frameworks (AngularJS, Dart, ...), industrialization solutions (Grunt, bower, Sass, ...).\n\nI am also very interested in the “Internet of Things” as well as “Quantified Self”.\n\nWith over 13 years of Object Oriented programming experience, I push excellence, code quality and robustness, and professionalism in every project I am involved in.",
+    "tags": [
+      "Android"
+    ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/TheYann"
-      },
       {
         "icon": "website",
         "name": "Website",
         "link": "http://www.yannicklemin.com/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/TheYann"
       }
     ]
   }
