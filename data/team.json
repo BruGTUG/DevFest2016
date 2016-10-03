@@ -32,7 +32,21 @@
         "photoUrl": "/images/people/yannick_lemin.jpg",
         "title": "",
         "socials" : [
-
+{
+            "icon": "website",
+            "name": "Website",
+            "link": "http://www.yannicklemin.com/"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/theyann"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/yannicklemin"
+          }
         ]
       },
       {
