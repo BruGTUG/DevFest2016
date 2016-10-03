@@ -1,216 +1,109 @@
 [
   {
-    "title": "Core Team",
+    "title": "GDG Brussels",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
-            "name": "Facebook"
-          },
+        "name": "Friedger Müffke",
+        "photoUrl": "/images/people/friedger_mueffke.jpg",
+        "title": "",
+        "socials" : [
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
-            "name": "Twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/fmdroid"
           },
-          {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Website and sponsors"
-      },
-      {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      },
-      {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
-        "socials": [
           {
             "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/friedger"
           }
-        ],
-        "title": "Speakers"
+        ]
       },
       {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
+        "name": "Pieter-Jan Vandormael",
+        "photoUrl": "/images/people/pieter_jan_vandormael.jpg",
+        "title": "",
+        "socials" : [
+
+        ]
       },
       {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Sponsors"
+        "name": "Yannick Lemin",
+        "photoUrl": "/images/people/yannick_lemin.jpg",
+        "title": "",
+        "socials" : [
+
+        ]
       },
       {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
+        "name": "Ľuboš Omelina",
+        "photoUrl": "/images/people/lubos_omelina.jpg",
+        "title": "",
+        "socials" : [
+
+        ]
       },
       {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
+        "name": "Stephan Celis",
+        "photoUrl": "/images/people/stephan_celis.jpg",
+        "title": "",
+        "socials" : [
+
+        ]
       }
     ]
   },
   {
-    "title": "Program Committee",
+    "title": "GDG Namur Android",
     "members": [
       {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
+        "name": "Benjamin Xzan Monjoie",
+        "title": "",
+        "photoUrl": "/images/people/benjamin_monjoie.jpg",
+        "title": "",
         "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Cloud stream"
-      },
-      {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
           {
             "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
+            "name": "Website",
+            "link": "http://www.xzan.be/"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/Xzan"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/benjaminmonjoie"
           }
-        ],
-        "title": "Android Stream"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GDG Cloud Belgium",
+    "members": [
+      {
+        "name": "Alex Van Boxel",
+        "title": "",
+        "photoUrl": "/images/people/alex_van_boxel.jpg",
+        "socials": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GDG Liège",
+    "members": [
+      {
+        "name": "Samuel Cardillo",
+        "title": "",
+        "photoUrl": "/images/people/samuel_cardillo.jpg",
+        "socials": [
+
+        ]
       }
     ]
   }
