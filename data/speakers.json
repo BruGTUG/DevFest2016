@@ -136,7 +136,7 @@
     "name": "Benjamin Xzan Monjoie",
     "title": "Android Developer",
     "company": "Appkers",
-    "country": "Belgium",
+    "country": "Namur, Belgium",
     "photoUrl": "/images/people/benjamin_monjoie.jpg",
     "shortBio": "Founder & Organizer of the GDG Namur Android",
     "bio": "Developer since 2004, I have grown fond of Android since I started tinkering with it in 2011. I was previously employed at Emakina as lead Android developer. Since July 2016, I started my carrer as a freelancer. Through my work, I do my best to share my passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. I stay closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application.",
@@ -166,7 +166,7 @@
     "name": "Yannick Lemin",
     "title": "Freelancer, Android Architect",
     "company": "TechYOS",
-    "country": "Belgium",
+    "country": "Charleroi, Belgium",
     "photoUrl": "/images/people/yannick_lemin.jpg",
     "shortBio": "Software craftsman playing with Android",
     "bio": "I am a freelancer in Android development / architecture.\n\nI am very passionate about new technologies. I have grown a very big interest for mobile development, and more particularly native Android, which I have been playing with for over 5 years.\n\nI also keep up with the latest in web development technologies, front and back-end, such as JavaScript frameworks (AngularJS, Dart, ...), industrialization solutions (Grunt, bower, Sass, ...).\n\nI am also very interested in the “Internet of Things” as well as “Quantified Self”.\n\nWith over 13 years of Object Oriented programming experience, I push excellence, code quality and robustness, and professionalism in every project I am involved in.",
@@ -183,6 +183,108 @@
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/TheYann"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "featured": "true",
+    "name": "Martin Görner",
+    "title": "Developer Relations",
+    "company": "Google",
+    "country": "Paris, France",
+    "photoUrl": "/images/people/martin_gorner.jpg",
+    "shortBio": "Parallel processing and machine learning, as well as all the cool things you can do with them.",
+    "bio": "Parallel processing and machine learning, as well as all the cool things you can do with them.",
+    "tags": [
+      "Cloud"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/martin_gorner"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/martingorner"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "featured": "true",
+    "name": "Nacho Coloma",
+    "title": "Solutions Engineer for Cloud Platform",
+    "company": "Google",
+    "country": "Berlin, Germany",
+    "photoUrl": "/images/people/nacho_coloma.jpg",
+    "shortBio": "I do things combining web, cloud and chewing gum. Co-organizer @codemotion_es",
+    "bio": "I do things combining web, cloud and chewing gum. Co-organizer @codemotion_es",
+    "tags": [
+      "Cloud"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/nachocoloma"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/icoloma"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Simon Vergauwen",
+    "title": "Android Developer",
+    "company": "AppFoundry",
+    "country": "Antwerp,  Belgium",
+    "photoUrl": "/images/people/simon_vergauwen.jpg",
+    "shortBio": "I fell in love with Mobile Software development shortly after graduating",
+    "bio": "I'm an Engineer in Electronics-ICT, and I fell in love with Mobile Software development shortly after graduating. I've done multiple project for Telenet and the government. I love to experiment with different frameworks, languages, architecture and design patterns whenever I have time to do so.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "github",
+        "label": "Github",
+        "link": "https://github.com/nomisRev"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/vergauwen_simon"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Niels Leenheer",
+    "title": "Developer",
+    "company": "salonhub.nl",
+    "country": "Drachten, The Netherlands",
+    "photoUrl": "/images/people/niels_leenheer.jpg",
+    "shortBio": "Creator of http://html5test.com",
+    "bio": "Niels is a self-professed browser geek. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet. Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world. He loves procrastinating, collecting weird devices with even stranger browsers, procrastinating, researching obscure browsers and writing bug reports.",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "label": "Website",
+        "link": "https://html5test.com"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/rakaz"
       }
     ]
   }

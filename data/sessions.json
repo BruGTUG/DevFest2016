@@ -133,5 +133,58 @@
       "tags": [
         "Android"
       ]
+    },
+    "207": {
+      "id": 207,
+      "title": "Tensorflow and deep learning - without at PhD",
+      "description": "Google has recently open-sourced its framework for machine learning and neural networks called Tensorflow. With this new tool, deep machine learning transitions from an area of research into mainstream software engineering. In this session, we will teach you how to choose the right neural network for your problem and how to make it behave. Familiarity with differential equations is no longer required. Instead, a couple of lines ofTensorflow Python, and a bag of \"tricks of the trade\" will do the job. No previous Python knowledge required.",
+      "speakers": [
+        [7]
+      ],
+      "language": "English",
+      "complexity": "Intermediate",
+      "tags": [
+        "Cloud",
+        "AI"
+      ]
+    },
+    "208": {
+      "id": 208,
+      "title": "Insights about Android Studio 2.2",
+      "description": "To be productive it is important to know your tools. This sesssion gives you insights about IntelliJ and Android 2.2.",
+      "speakers": [
+        [6]
+      ],
+      "language": "English",
+      "complexity": "Intermediate",
+      "tags": [
+        "Android"
+      ]
+    },
+    "209": {
+      "id": 209,
+      "title": "View-based apps with Conductor",
+      "description": "No more Activities or Fragments only Views! Conductor can save your from Android lifecycle hell! Architectural overkill or testing heaven, come and decide.",
+      "speakers": [
+        [9]
+      ],
+      "language": "English",
+      "complexity": "Intermediate",
+      "tags": [
+        "Android"
+      ]
+    },
+    "210": {
+      "id": 210,
+      "title": "The Progression of Web Apps",
+      "description": "No, this title is not a typo. This talk is about Web Apps in general. We look at how we can create native apps using web technologies today. Of course we're going to look at the future too. Progressive Web Apps – what are they? And is the web now finally able to challenge native app development?",
+      "speakers": [
+        [10]
+      ],
+      "language": "English",
+      "complexity": "Beginner",
+      "tags": [
+        "Web"
+      ]
     }
 }
