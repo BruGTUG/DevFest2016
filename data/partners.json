@@ -1,5 +1,22 @@
 [
   {
+    "title": "sponsors",
+    "logos": [
+      {
+        "name": "Tapptic",
+        "url": "http://www.tapptic.com",
+        "logoUrl": "../images/logos/tapptic.png",
+        "width": 170
+      },
+      {
+        "name": "OpenIntents",
+        "url": "http://www.openintents.org",
+        "logoUrl": "../images/logos/openintents.png",
+        "width": 170
+      }
+    ]
+  },
+  {
     "title": "template-creator",
     "logos": [
       {
