@@ -287,5 +287,50 @@
         "link": "https://twitter.com/rakaz"
       }
     ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Charlotte Labie",
+    "title": "Sales and Marketing Manager",
+    "company": "fourcast",
+    "country": "Antwerp, Belgium",
+    "photoUrl": "/images/people/charlotte_labie.jpg",
+    "shortBio": "In my opinion, the best is yet to come!",
+    "bio": "I’m Charlotte, an enthusiastic sales and marketing manager at Fourcast. I’m very interested in technology, especially in what the future will bring us. In my opinion, the best is yet to come!",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://be.linkedin.com/in/charlotte-labie-9643ab66/en"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Serge Hendrickx",
+    "title": "Developer",
+    "company": "fourcast",
+    "country": "Antwerp, Belgium",
+    "photoUrl": "/images/people/serge_hendrickx.jpg",
+    "shortBio": "Constantly trying to keep up with every new awesome Google product!",
+    "bio": "Google Cloud Platform and Chrome developer with a passion for everything Google! Started working with the Google Cloud Platform when it was barely released back in 2011. Now working as a developer for Google For Work partner fourcast. Constantly trying to keep up with every new awesome Google product!",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/sergehendrickx"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://www.linkedin.com/in/serge-hendrickx-1b019958"
+      }
+    ]
   }
 }
