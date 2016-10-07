@@ -17,6 +17,17 @@
     ]
   },
   {
+    "title": "event-partners",
+    "logos": [
+      {
+        "name": "NG-BE - Belgium's first ever Angular conference!",
+        "url": "https://ng-be.org/",
+        "logoUrl": "../images/logos/logo-ng-be.png",
+        "width": 170
+      }
+    ]
+  },
+  {
     "title": "template-creator",
     "logos": [
       {
