@@ -13,6 +13,12 @@
         "url": "http://www.openintents.org",
         "logoUrl": "../images/logos/openintents.png",
         "width": 170
+      },
+      {
+        "name": "SNCube",
+        "url": "http://sncu.be/",
+        "logoUrl": "../images/logos/logo-sncube.png",
+        "width": 170
       }
     ]
   },
