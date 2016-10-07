@@ -270,7 +270,7 @@
       "title": "Are you botching the security of your AngularJS application?",
       "description": "If you make a list of popular JavaScript MVC frameworks, AngularJS is probably at the top of the list. Developers around the world are crazy about the Angular way of doing things, and love how easy it is to write AngularJS applications. However, few people know that AngularJS packs a lot security features, right out of the box. Unfortunately, because many developers are not aware of these security features, they are often unintentionally circumvented, or not used to their full potential. For example, think about common advice on Stack Overflow to turn off the protection against cross-site scripting (XSS) attacks, just so you can directly bind HTML data to a variable.\n\nIn this session, you will learn how to leverage AngularJS' security features to their full potential. Specifically, you will learn how AngularJS applies Strict Contextual Escaping (SCE) against XSS attacks, and how to relax that protection in a safe way (instead of turning it off). We also cover the advanced Content Security Policy (CSP), and AngularJS' built-in cross-site request forgery (CSRF) protection mechanism. We mainly focus on AngularJS 1.x, but also relate the concepts to AngularJS 2 where relevant.",
       "speakers": [
-        [19]
+        [20]
       ],
       "language": "English",
       "complexity": "Intermediate",
@@ -349,7 +349,7 @@
       "title": "code lab: Progressive Web Apps",
       "description": "Progressive Web Apps are experiences that combine the best of the web and the best of apps. They are useful to users from the very first visit in a browser tab, no install required. As the user progressively builds a relationship with the app over time, it becomes more and more powerful. It loads quickly, even on flaky networks, sends relevant push notifications, has an icon on the home screen, and loads as a top-level, full screen experience.\n\nIn this codelab you will learn\n* How to design and construct an app using the 'app shell' method\n* How to make your app work offline\n* How to store data for use offline later\n\nhttps://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html#0",
       "speakers": [
-        [20]
+        [21]
       ],
       "language": "English",
       "complexity": "Beginner",
