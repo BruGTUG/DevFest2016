@@ -77,7 +77,7 @@
         "language": "English",
         "complexity": "Beginner",
         "tags": [
-            "Web"
+            "Cloud"
         ]
     },
     "203": {
@@ -143,8 +143,8 @@
       "language": "English",
       "complexity": "Intermediate",
       "tags": [
-        "Cloud",
-        "AI"
+        "AI",
+        "Cloud"
       ]
     },
     "208": {
@@ -183,7 +183,7 @@
       "language": "English",
       "complexity": "Beginner",
       "tags": [
-        "Web"
+        "Mobile Web"
       ]
     },
     "211": {
@@ -201,7 +201,7 @@
     },
     "212": {
       "id": 212,
-      "title": "Testing web applications with protractor & cucumberjs",
+      "title": "Testing Web Applications with protractor & cucumberjs",
       "description": "Manually testing your application is time intensive and error prone. Using a DSL like Gherkin, that describes the behaviour of your users and business functionality, can come in handy when trying to cover every corner case.\n\nUsing Protractor in conjunction with CucumberJS can help you automate your E2E testing using these Gherkin scenarios. Especially when working with a continuous integration setup where you need to run the tests on every build, this can remove some weight from the shoulders of your testing team.\n\nSam will cover these concepts on a high level and go on with explaining some best practices, inviting you to go in-depth yourself with a starter kit to integrate in your environment or to play around.",
       "speakers": [
 
@@ -209,7 +209,7 @@
       "language": "English",
       "complexity": "Intermediate",
       "tags": [
-        "Cloud"
+        "Web"
       ]
     },
     "213": {
@@ -228,7 +228,7 @@
     },
     "214": {
       "id": 214,
-      "title": "Kibernetes",
+      "title": "Kubernetes",
       "description": "",
       "speakers": [
 
@@ -275,7 +275,7 @@
       "language": "English",
       "complexity": "Intermediate",
       "tags": [
-        "Cloud"
+        "Web"
       ]
     },
     "218": {
@@ -301,7 +301,7 @@
       "language": "English",
       "complexity": "Beginner",
       "tags": [
-        "Mobile Web"
+        "Android"
       ]
     },
     "220": {
@@ -312,6 +312,62 @@
 
       ],
       "language": "English",
-      "complexity": "Intermediate"
+      "complexity": "Intermediate",
+      "tags": [
+        "Web"
+      ]
+    },
+    "220": {
+      "id": "220",
+      "title": "Material Design Lite in Pharo",
+      "description": "Showcase Material Design Lite integration in Pharo. Possible workshop to have attendees get Pharo running and livecode using MDL.",
+      "speakers": [
+
+      ],
+      "language": "English",
+      "complexity": "Intermediate",
+      "tags": [
+        "Web"
+      ]
+    },
+    "221": {
+      "id": "221",
+      "title": "code lab: Tensorflow",
+      "description": "",
+      "speakers": [
+        [7]
+      ],
+      "language": "English",
+      "complexity": "Intermediate",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    "222": {
+      "id": "222",
+      "title": "code lab: Android",
+      "description": "",
+      "speakers": [
+
+      ],
+      "language": "English",
+      "complexity": "Beginner",
+      "tags": [
+        "Android"
+      ]
+    },
+    "223": {
+      "id": "223",
+      "title": "code lab: Progressive Web Apps",
+      "description": "",
+      "speakers": [
+
+      ],
+      "language": "English",
+      "complexity": "Intermediate",
+      "tags": [
+        "Mobile Web"
+      ]
     }
 }
