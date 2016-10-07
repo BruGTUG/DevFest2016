@@ -332,5 +332,266 @@
         "link": "https://www.linkedin.com/in/serge-hendrickx-1b019958"
       }
     ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Alex van Boxel",
+    "title": "Software Architect",
+    "company": "Vente-Exclusive",
+    "country": "Brussels, Belgium",
+    "photoUrl": "/images/people/alex_van_boxel.jpg",
+    "shortBio": "",
+    "bio": "",
+    "tags": [
+      "Cloud"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/alexvb"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://be.linkedin.com/in/alexvanboxel"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Filip Maelbrancke",
+    "title": "Android Developer",
+    "company": "AppFoundry",
+    "country": "Brussels, Belgium",
+    "photoUrl": "/images/people/filip_maelbrancke.jpg",
+    "shortBio": "Likes clean code, tests and finding out how to apply good practices to Android.",
+    "bio": "Filip Maelbrancke is an Android developer at AppFoundry in Belgium. Likes clean code, tests and finding out how to apply good practices to Android.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "github",
+        "label": "Github",
+        "link": "https://github.com/filipmaelbrancke"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/fmaelbrancke"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Matthias Feys",
+    "title": "Lead Data Scientist",
+    "company": "Datatonic",
+    "country": "Bruges, Belgium",
+    "photoUrl": "/images/people/matthias_feys.jpg",
+    "shortBio": "Huge machine learning enthusiast, speaks Python fluently and leverages these skills to transform data into knowledge",
+    "bio": "Matthias is Lead Data Scientist at Datatonic. At Datatonic he helps companies to unleash the power of their data with Google Cloud Platform using Big Data tools (like DataFlow, DataProc, BigQuery) and Machine Learning libraries (like TensorFlow and Scikit-learn). Matthias holds a Master in Electrical Engineering (ICT), and extra academic background in Machine Learning. He's a huge machine learning enthusiast, speaks Python fluently and leverages these skills to transform data into knowledge.",
+    "tags": [
+      "AI",
+      "Cloud"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "label": "Website",
+        "link": "http://blog.datatonic.com/"
+      },
+      {
+        "icon": "github",
+        "label": "Github",
+        "link": "https://github.com/Fematich"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/FsMatt"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://linkedin.com/in/matthiasfeys"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "name": "Yakup Kalin",
+    "title": "Mobile Solution Engineer",
+    "company": "ACA IT-Solutions",
+    "country": "Genk, Belgium",
+    "photoUrl": "/images/people/yakup_kalin.jpg",
+    "shortBio": "With a huge interest in mobile technology Yakup develops Native, Hybrid and Responsive Web Apps",
+    "bio": "As a Mobile Solution Engineer at ACA IT-Solutions, Yakup is involved in agile mobile development processes, where he delivers creative input for realizing usable and likeable mobile applications. With a huge interest in mobile technology Yakup develops Native, Hybrid and Responsive Web Apps. Throughout the years, Yakup has gained valuable knowledge on Mobile Solutions by working on various mobile projects for clients such as VAB Fleet Services and the Flemish Government.",
+    "tags": [
+      "Mobile Web"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "label": "Website",
+        "link": "http://www.yakupkalin.be"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/YakupKalin"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://linkedin.com/in/yakupkalin"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "Philippe Back",
+    "title": "Freelancer",
+    "company": "High Octane SPRL",
+    "country": "Bierges, Belgium",
+    "photoUrl": "/images/people/philippe_back.png",
+    "shortBio": "Process, Models, Requirements, Designs, Tech",
+    "bio": "Freelancer doing alternative tech. Startup advisor. Pharo Consortium Member. Hadoop Architect. Freestyle swimmer.",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "label": "Website",
+        "link": "http://philippeback.eu"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "http://twitter.com/philippeback"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "name": "Kalin Maldzhanski",
+    "title": "Mobile Development Lead & Architect",
+    "company": "AppTik",
+    "country": "Brussels, Belgium",
+    "photoUrl": "/images/people/kalin_maldzhanski.jpg",
+    "shortBio": "DIY, Open Source, Open Data",
+    "bio": "Maker who loves technology, automation, optimization and confrontation. Hobbies DIY, Open Source, Open Data.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "label": "Website",
+        "link": "http://www.apptik.io"
+      },
+      {
+        "icon": "github",
+        "label": "Github",
+        "link": "https://github.com/djodjoni"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "name": "Sam Vloeberghs",
+    "title": "Frontend Architect",
+    "company": "Kwerri",
+    "country": "Ghent, Belgium",
+    "photoUrl": "/images/people/sam_vloeberghs.jpg",
+    "shortBio": "Freelance #fullstack software architect, coach & pm / #opensource contributor / Co-organiser @jsbe & @ng-be / Take some risk and time & learn!",
+    "bio": "Freelance #fullstack software architect, coach & pm / #Opensource contributor / Co-organiser @jsbe_io & @ngbeconf / Take some risk and time & learn!",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "label": "Website",
+        "link": "http://www.samvloeberghs.be/"
+      },
+      {
+        "icon": "github",
+        "label": "Github",
+        "link": "https://github.com/samvloeberghs"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/samvloeberghs"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://linkedin.com/in/samvloeberghs"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "name": "Philippe De Ryck",
+    "title": "Postdoc",
+    "company": "iMinds-DistriNet - KU Leuven",
+    "country": "Leuven, Belgium",
+    "photoUrl": "/images/people/philippe_de_ryck.jpg",
+    "shortBio": "Running the Web Security Training program at iMinds-DistriNet (KU Leuven), helping practitioners build more secure web applications",
+    "bio": "Philippe De Ryck is a postdoctoral researcher with the iMinds-DistriNet research group at KU Leuven, Belgium, where he obtained his PhD on client-side web security. Philippe is currently responsible for the Web security training program, which is a sustainable knowledge transfer towards practitioners. At the end of his PhD, he published a book titled Primer on Client-Side Web Security, which focuses on the state of practice and state of the art in client-side web security.",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "label": "Website",
+        "link": "https://www.websec.be"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/PhilippeDeRyck"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://linkedin.com/in/philippederyck"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "name": "Friedger Müffke",
+    "title": "Entredeveloper",
+    "company": "OpenIntents",
+    "country": "Berlin, Germany and Brussels, Belgium",
+    "photoUrl": "/images/people/friedger_mueffke.jpg",
+    "shortBio": "Open mind, open source, open intents",
+    "bio": "Attracted by the announcement of the mobile open source platform in 2007, Friedger Müffke sticked to Android since. He co-founded the Novoda Berlin office, OpenIntents and Droidcon.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "github",
+        "label": "Github",
+        "link": "https://github.com/friedger"
+      },
+      {
+        "icon": "twitter",
+        "label": "Twitter",
+        "link": "https://twitter.com/fmdroid"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://linkedin.com/in/friedger"
+      }
+    ]
   }
 }
