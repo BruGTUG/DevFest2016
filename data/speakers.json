@@ -221,7 +221,7 @@
     "country": "Berlin, Germany",
     "photoUrl": "/images/people/nacho_coloma.jpg",
     "shortBio": "I do things combining web, cloud and chewing gum. Co-organizer @codemotion_es",
-    "bio": "I do things combining web, cloud and chewing gum. Co-organizer @codemotion_es",
+    "bio": "Nacho Coloma is Solution Engineer for Google Cloud Platform. At Google he likes to help companies solve interesting problems while taking their systems to the cloud. For some reason excited about containers, storage and web technologies.",
     "tags": [
       "Cloud"
     ],
@@ -509,7 +509,7 @@
     "shortBio": "Freelance #fullstack software architect, coach & pm / #opensource contributor / Co-organiser @jsbe & @ng-be / Take some risk and time & learn!",
     "bio": "Freelance #fullstack software architect, coach & pm / #Opensource contributor / Co-organiser @jsbe_io & @ngbeconf / Take some risk and time & learn!",
     "tags": [
-      "Web"
+      "Angular", "Web"
     ],
     "socials": [
       {
@@ -592,6 +592,14 @@
         "label": "Linkedin",
         "link": "https://linkedin.com/in/friedger"
       }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "name": "Nicolas Deruytter",
+    "company": "Datatonic",
+    "tags": [
+      "Cloud"
     ]
   }
 }

@@ -201,7 +201,7 @@
     },
     "212": {
       "id": 212,
-      "title": "Testing Web Applications with protractor & cucumberjs",
+      "title": "Testing web applications with Protractor & Cucumber.js",
       "description": "Manually testing your application is time intensive and error prone. Using a DSL like Gherkin, that describes the behaviour of your users and business functionality, can come in handy when trying to cover every corner case.\n\nUsing Protractor in conjunction with CucumberJS can help you automate your E2E testing using these Gherkin scenarios. Especially when working with a continuous integration setup where you need to run the tests on every build, this can remove some weight from the shoulders of your testing team.\n\nSam will cover these concepts on a high level and go on with explaining some best practices, inviting you to go in-depth yourself with a starter kit to integrate in your environment or to play around.",
       "speakers": [
         [19]
@@ -228,8 +228,8 @@
     },
     "214": {
       "id": 214,
-      "title": "Kubernetes",
-      "description": "",
+      "title": "Deploying and scaling with Kubernetes 1.4",
+      "description": "Come to this talk to see how to deploy systems with Kubernetes, scale up and down a cluster, deploy and rollback versions of your applications, using the same tools in production at Box and Pokémon Go. If time permits we will also talk about new features in Kubernetes 1.3 and 1.4, such as autoscaling and Federated Services.",
       "speakers": [
         [8]
       ],
@@ -257,7 +257,7 @@
       "title": "code lab: Big Data processing with Cloud DataFlow",
       "description": "During this codelab you will learn about the Dataflow programming model and build and deploy your first Dataflow pipelines using Java or Python.",
       "speakers": [
-        [15]
+        [15], [22]
       ],
       "language": "English",
       "complexity": "Beginner",
@@ -319,8 +319,8 @@
     },
     "221": {
       "id": "221",
-      "title": "code lab: Tensorflow",
-      "description": "",
+      "title": "code lab: Tensorflow and deep learning, without a PhD",
+      "description": "Google has recently open-sourced its framework for machine learning and neural networks called Tensorflow. With this new tool, deep machine learning transitions from an area of research into mainstream software engineering. In this lab, you will learn how to choose the right neural network for your problem and how to make it behave. You will attack the problem of recognising handwritten digits and bring it, from the simplest solution all the way to 99% accuracy. Familiarity with differential equations is no longer required. Instead, a couple of lines of Tensorflow Python, and a bag of standard deep learning ingrediants will do the job (dense and convolutional networks, learning rate decay, dropout, relu activation function, ...). No previous Python knowledge required. Python beginners are invited to read a Python 1-pager before the lab: https://learnxinyminutes.com/docs/python3/\n\nPlease make sure that you followed the installation instructions beforehand: https://github.com/martin-gorner/tensorflow-mnist-tutorial/blob/master/INSTALL.txt",
       "speakers": [
         [7]
       ],
@@ -334,12 +334,12 @@
     "222": {
       "id": "222",
       "title": "code lab: Android",
-      "description": "",
+      "description": "Dive into various parts of the Android platform.\n\nPlease make sure that you have Android Studio and the SDK installed.",
       "speakers": [
 
       ],
       "language": "English",
-      "complexity": "Beginner",
+      "complexity": "Beginner/Intermediate",
       "tags": [
         "Android"
       ]
