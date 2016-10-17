@@ -356,5 +356,18 @@
       "tags": [
         "Mobile Web"
       ]
-    }
+    },
+      "224": {
+      "id": 224,
+      "title": "AnimatedVectorDrawable explained",
+      "description": "Let's have a look at how to animate VectorDrawable, what you can do with them and what tools exist to make your life easier.",
+      "speakers": [
+        [5]
+      ],
+      "language": "English",
+      "complexity": "Intermediate",
+      "tags": [
+        "Android"
+      ]
+    },
 }
