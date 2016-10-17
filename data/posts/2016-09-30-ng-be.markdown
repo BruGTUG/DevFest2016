@@ -1,0 +1,3 @@
+If you like DevFest we are sure you also like the first conference about Angular in Belgium on 8/9 December 2016.
+
+Please have a look at [ng-be.org](https://ng-be.org) for all the details.

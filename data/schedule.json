@@ -166,6 +166,12 @@
         "startTime": "17:30",
         "endTime": "18:00",
         "sessions": [
+          [224]
+        ]
+    }, {
+        "startTime": "18:00",
+        "endTime": "18:30",
+        "sessions": [
           [138]
         ]
     }]
