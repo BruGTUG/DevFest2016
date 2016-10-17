@@ -1,0 +1,30 @@
+DevFest Belgium 2016 is coming this weekend! The 5th edition of the
+biggest conference about Google technologies in Belgium will take on
+October 22-23. You have your last chance to register to the conference
+here: http://devfest-belgium.fikket.com/event/devfest-belgium-2016
+
+We invite all developers, designer, entrepreneurs, techies, newbies
+and interested people to join us in Brussels. Learn more about
+Android, Cloud, Firebase, Internet of Things or latest Web
+technologies from Google. Besides that you will meet experts from
+different areas and will have an opportunity to broaden your circles.
+
+We have the pleasure to announce that we have speakers from companies likes
+Google, Dt. Telekom, iMinds, AppFoundry, hackages, Datatonic, fourcast, HTML5test.
+
+We will also have a special track on Google’s answer to artificial
+intelligence – TensorFlow. You will have not only a chance to learn
+something from machine learning, but also try it yourself in a codelab
+– so come prepared and make sure you have installed necessary
+requirements:(https://github.com/martin-gorner/tensorflow-mnist-tutorial/blob/master/INSTALL.txt)
+
+For the Android code lab, please make sure that you have Android Studio and the Android
+SDK installed.
+
+For the Progressive Web Apps code lab, please check the list below:
+
+* Chrome 52 or above
+* [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb), or your own web server of choice
+* The sample code
+* A text editor like Atom
+* Basic knowledge of HTML, CSS, JavaScript, and Chrome DevTools

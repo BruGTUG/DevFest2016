@@ -41,6 +41,10 @@
     {
       "route": "team",
       "permalink": "/team/"
+    },
+    {
+        "route": "blog",
+        "permalink": "/blog/"
     }
   ],
   "url": "https://devfest.be/",

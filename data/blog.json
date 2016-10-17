@@ -34,5 +34,14 @@
     "secondaryColor": "#3F51B5",
     "image": "/images/logos/logo-ng-be.png",
     "brief": "If you are interested in DevFest you might be first Angular Conference in Belgium taking place in December."
+  },
+  {
+    "id": "agenda",
+    "title": "Agenda and preparing your laptop",
+    "posted": "2016-10-17",
+    "primaryColor": "#3F51B5",
+    "secondaryColor": "#3F51B5",
+    "image": "/images/posts/agenda.png",
+    "brief": "We would like to thank all the speakers that agreed to speak at devfest this weekend! Check the full agenda and also prepare your laptops for the code labs."
   }
 ]
