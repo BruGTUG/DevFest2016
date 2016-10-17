@@ -598,8 +598,19 @@
     "id": 22,
     "name": "Nicolas Deruytter",
     "company": "Datatonic",
+    "country": "Antwerp, Belgium",
+    "photoUrl": "/images/people/nicolas_deruytter.jpg",
+    "shortBio": "Leading Datatonic BE, huge GCP enthousiast & allround data geek",
+    "bio": "Leading Datatonic BE, huge GCP enthousiast & allround data geek",
     "tags": [
       "Cloud"
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "label": "Linkedin",
+        "link": "https://be.linkedin.com/in/nicolas-deruytter-24a61849"
+      }
     ]
   }
 }
