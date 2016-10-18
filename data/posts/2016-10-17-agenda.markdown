@@ -12,6 +12,7 @@ different areas and will have an opportunity to broaden your circles.
 We have the pleasure to announce that we have speakers from companies likes
 Google, Dt. Telekom, iMinds, AppFoundry, hackages, Datatonic, fourcast, HTML5test.
 
+**Prepare your laptops**
 We will also have a special track on Google’s answer to artificial
 intelligence – TensorFlow. You will have not only a chance to learn
 something from machine learning, but also try it yourself in a codelab
@@ -22,9 +23,14 @@ For the Android code lab, please make sure that you have Android Studio and the 
 SDK installed.
 
 For the Progressive Web Apps code lab, please check the list below:
-
 * Chrome 52 or above
 * [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb), or your own web server of choice
 * The sample code
 * A text editor like Atom
 * Basic knowledge of HTML, CSS, JavaScript, and Chrome DevTools
+
+The requirements for the Google cloud code-lab are listed [here](https://cloud.google.com/dataflow/docs/quickstarts/quickstart-java-eclipse):
+- Java Development Kit (JDK) version 1.7 or later. Verify that the JAVA_HOME environment variable is set and points to your JDK installation.
+- Eclipse IDE version 4.4 (Luna) or later.
+- Cloud Dataflow plugin for Eclipse installed.
+- Google Cloud Platform project
