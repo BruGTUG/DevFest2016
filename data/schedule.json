@@ -2,11 +2,13 @@
     "date": "2016-10-22",
     "dateReadable": "22nd October",
     "tracks": [{
-        "title": "Room 1"
+        "title": "Main Hall"
     }, {
-        "title": "Room 2"
+        "title": "Le Grand Champs"
     }, {
-        "title": "Room 3"
+        "title": "Rainbow"
+    }, {
+        "title": "FrontBack"
     }],
     "timeslots": [{
         "startTime": "09:00",
@@ -24,19 +26,19 @@
         "startTime": "10:15",
         "endTime": "11:00",
         "sessions": [
-          [202], [207]
+          [207], [202]
         ]
     }, {
         "startTime": "11:00",
         "endTime": "11:40",
         "sessions": [
-          [211], [216]
+          [211], [], [216]
         ]
     }, {
         "startTime": "11:50",
         "endTime": "12:30",
         "sessions": [
-          [214], [216]
+          [214], [], [216]
         ]
     }, {
         "startTime": "12:30",
@@ -49,6 +51,7 @@
         "endTime": "14:40",
         "sessions": [
           [215],
+          [],
           [201],
           [221]
         ]
@@ -57,6 +60,7 @@
         "endTime": "15:30",
         "sessions": [
           [220],
+          [],
           [201],
           [221]
         ]
@@ -71,6 +75,7 @@
         "endTime": "16:40",
         "sessions": [
           [212],
+          [],
           [201],
           [221]
         ]
@@ -79,6 +84,7 @@
         "endTime": "17:30",
         "sessions": [
           [217],
+          [],
           [201],
           [221]
         ]
@@ -87,11 +93,13 @@
     "date": "2016-10-13",
     "dateReadable": "23rd October",
     "tracks": [{
-        "title": "Room 1"
+        "title": "Main Hall"
     }, {
-        "title": "Room 2"
+        "title": "Le Grand Champs"
     }, {
-        "title": "Room 3"
+        "title": "Rainbow"
+    }, {
+        "title": "FrontBack"
     }],
     "timeslots": [{
         "startTime": "09:30",
@@ -131,6 +139,7 @@
         "endTime": "14:40",
         "sessions": [
           [209],
+          [],
           [222],
           [223]
         ]
@@ -139,6 +148,7 @@
         "endTime": "15:30",
         "sessions": [
           [213],
+          [],
           [222],
           [223]
         ]
@@ -153,6 +163,7 @@
         "endTime": "16:40",
         "sessions": [
           [219],
+          [],
           [222]
         ]
     }, {
@@ -160,6 +171,7 @@
         "endTime": "17:30",
         "sessions": [
           [205],
+          [],
           [222]
         ]
     }, {
@@ -167,6 +179,7 @@
         "endTime": "18:00",
         "sessions": [
           [224],
+          [],
           [222]
         ]
     }, {
