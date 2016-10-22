@@ -369,5 +369,18 @@
       "tags": [
         "Android"
       ]
-    }
+    },
+    "225": {
+      "id": "225",
+      "title": "Streaming: Progressive Web Apps",
+      "description": "The original session was cancelled. Instead, the session 'Progressive Web Apps across all frameworks' from Google I/O 2016 is streamed.",
+      "speakers": [
+        []
+      ],
+      "language": "English",
+      "complexity": "Beginner",
+      "tags": [
+        "Mobile Web"
+      ]
+    },
 }
